@@ -11,6 +11,6 @@ int main() {
     int n;
     cout << "Digite um numero n: ";
     cin >> n;
-    cout << "Resultado: " << fibonacci(n) << std::endl;
+    cout << "Resultado: " << fibonacci(n) << endl;
     return 0;
 }
