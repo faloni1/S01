@@ -11,17 +11,17 @@ componente(cloaking_device, 6, defesa).
 componente(android_reparo, 4, suporte).
 componente(estacao_pesquisa, 10, pesquisa).
 
-possui(hangar_alpha,   reator_fusao).
-possui(hangar_alpha,   modulo_suporte_vida).
-possui(hangar_beta,    reator_fusao).
-possui(hangar_beta,    propulsor_ion).
-possui(hangar_beta,    modulo_suporte_vida).
-possui(hangar_gamma,   reator_fusao).
-possui(hangar_gamma,   cloaking_device).
-possui(hangar_gamma,   scanner_deep_space).
-possui(hangar_delta,   modulo_suporte_vida).
-possui(hangar_delta,   android_reparo).
-possui(hangar_delta,   scanner_deep_space).
+possui(hangar_alpha, reator_fusao).
+possui(hangar_alpha, modulo_suporte_vida).
+possui(hangar_beta, reator_fusao).
+possui(hangar_beta, propulsor_ion).
+possui(hangar_beta, modulo_suporte_vida).
+possui(hangar_gamma, reator_fusao).
+possui(hangar_gamma, cloaking_device).
+possui(hangar_gamma, scanner_deep_space).
+possui(hangar_delta, modulo_suporte_vida).
+possui(hangar_delta, android_reparo).
+possui(hangar_delta, scanner_deep_space).
 possui(hangar_epsilon, propulsor_ion).
 possui(hangar_epsilon, dobra_espacial).
 possui(hangar_epsilon, cloaking_device).
